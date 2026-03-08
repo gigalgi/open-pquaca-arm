@@ -18,14 +18,16 @@ Open-Pquaca-Arm is a fully open-source 5-DOF robotic arm designed for low-cost e
 
 Inspired by [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) and [OpenArm](https://openarm.dev/).
 
-<div align="center">
-  <img src="docs/images/arm-full.png" width="680" alt="Open-Pquaca-Arm full configuration"/>
-  <br><em>Open-Pquaca-Arm — 5-DOF overview.</em>
-</div>
+
 
 <div align="center">
   <img src="docs/images/arm-detail.png" width="680" alt="Arm detail view"/>
   <br><em>Shoulder and elbow detail — sheet metal construction with QDD motor joints.</em>
+</div>
+
+<div align="center">
+  <img src="docs/images/arm-full.png" width="680" alt="Open-Pquaca-Arm full configuration"/>
+  <br><em>Open-Pquaca-Arm — 5-DOF semi-extended.</em>
 </div>
 
 <div align="center">
