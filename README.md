@@ -20,7 +20,7 @@ Inspired by [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) and [OpenAr
 
 <div align="center">
   <img src="docs/images/arm-full.png" width="680" alt="Open-Pquaca-Arm full configuration"/>
-  <br><em>Open-Pquaca-Arm — 5-DOF full reach configuration.</em>
+  <br><em>Open-Pquaca-Arm — 5-DOF overview.</em>
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@ Inspired by [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) and [OpenAr
 
 <div align="center">
   <img src="docs/images/arm-overview.png" width="680" alt="Arm and gripper overview"/>
-  <br><em>Arm and custom 2-finger pinch gripper.</em>
+  <br><em>Arm and custom 2-finger pinch gripper with SO-ARM100 teleoperation leader arm .</em>
 </div>
 
 ---
