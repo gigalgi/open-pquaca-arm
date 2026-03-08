@@ -62,7 +62,7 @@ Inspired by [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) and [OpenAr
 | Gripper | DM-J4310-2EC V1.1 | BLDC QDD, 24V |
 
 All motors from [Damiao Technology](https://www.damiaokeji.com/).
-Basic motor usage and API: [Damiao wiki](https://github.com/dmBots/DM_Motor_Tool).
+Basic motor usage and API: [Damiao wiki](https://wiki.seeedstudio.com/damiao_series/).
 
 ---
 
